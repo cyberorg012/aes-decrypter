@@ -51,7 +51,7 @@
     "test/"
   ],
   "dependencies": {
-    "global": "^4.3.2",
+    "global": "^4.4.0",
     "pkcs7": "^1.0.2"
   },
   "devDependencies": {
